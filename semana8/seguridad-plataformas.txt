@@ -1,0 +1,5 @@
+Usar contraseñas fuertes y unicas
+Actvar autenticacion de dos pasos
+Asignar roles y permisos diferenciados
+Mantener el software y dependencias actualizadas
+Proteger y no exponer datospersonales sensibles
